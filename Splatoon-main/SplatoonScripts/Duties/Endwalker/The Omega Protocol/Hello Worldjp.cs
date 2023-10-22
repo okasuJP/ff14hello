@@ -23,7 +23,7 @@ using System.Threading.Tasks;
 
 namespace SplatoonScriptsOfficial.Duties.Endwalker.The_Omega_Protocol
 {
-    public class Hello_World : SplatoonScript
+    public class Hello_Worldjp : SplatoonScript
     {
         public override Metadata? Metadata => new(7, "NightmareXIV");
         public override HashSet<uint> ValidTerritories => new() { 1122 };
